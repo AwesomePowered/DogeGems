@@ -1,0 +1,10 @@
+name: DogeGems
+author: LaxWasHere
+version: 0.1
+main: net.awesomepowered.dogegems.DogeGems
+dependency: [Vault]
+commands:
+    doge2gem:
+        description: Generates a new DogeAddress
+    checkdoge:
+        description: checks doge
